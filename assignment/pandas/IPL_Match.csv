@@ -1,0 +1,31 @@
+MatchID,Date,Team1,Team2,Winner,Venue,Result
+1,2025-03-22,KKR,RCB,KKR,"Eden Gardens, Kolkata",KKR won by 7 wickets
+2,2025-03-23,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Hyderabad",SRH won by 44 runs
+3,2025-03-23,CSK,MI,CSK,"MA Chidambaram Stadium, Chennai",CSK won by 4 wickets
+4,2025-03-24,DC,LSG,LSG,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",LSG won by 6 wickets
+5,2025-03-25,GT,PBKS,PBKS,"Narendra Modi Stadium, Ahmedabad",PBKS won by 11 runs
+6,2025-03-26,RR,KKR,KKR,"Barsapara Cricket Stadium, Guwahati",KKR won by 8 wickets
+7,2025-03-27,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Hyderabad",LSG won by 5 wickets
+8,2025-03-28,RCB,CSK,RCB,"MA Chidambaram Stadium, Chennai",RCB won by 50 runs
+9,2025-03-29,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad",GT won by 36 runs
+10,2025-03-30,DC,SRH,SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH won by 43 runs
+11,2025-03-30,RR,CSK,CSK,"Barsapara Cricket Stadium, Guwahati",CSK won by 5 wickets
+12,2025-03-31,MI,KKR,MI,"Wankhede Stadium, Mumbai",MI won by 8 wickets
+13,2025-04-01,LSG,PBKS,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",PBKS won by 8 wickets
+14,2025-04-02,RCB,GT,RCB,"M. Chinnaswamy Stadium, Bengaluru",RCB won by 8 wickets
+15,2025-04-03,KKR,SRH,KKR,"Eden Gardens, Kolkata",KKR won by 80 runs
+16,2025-04-04,LSG,MI,MI,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",MI won by 12 runs
+17,2025-04-05,CSK,DC,DC,"MA Chidambaram Stadium, Chennai",DC won by 25 runs
+18,2025-04-05,PBKS,RR,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",PBKS won by 16 runs
+19,2025-04-06,GT,SRH,GT,"Narendra Modi Stadium, Ahmedabad",GT won by 7 wickets
+20,2025-04-07,RCB,MI,RCB,"Wankhede Stadium, Mumbai",RCB won by 12 runs
+21,2025-04-08,KKR,LSG,LSG,"Eden Gardens, Kolkata",LSG won by 4 runs
+22,2025-04-09,PBKS,CSK,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",PBKS won by 18 runs
+23,2025-04-10,RR,GT,GT,"Sawai Mansingh Stadium, Jaipur",GT won by 58 runs
+24,2025-04-11,RCB,DC,RCB,"M. Chinnaswamy Stadium, Bengaluru",RCB won by 6 wickets
+25,2025-04-12,LSG,GT,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT won by 58 runs
+26,2025-04-12,SRH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Hyderabad",PBKS won by 5 wickets
+27,2025-04-13,RR,RCB,RCB,"Sawai Mansingh Stadium, Jaipur",RCB won by 9 wickets
+28,2025-04-13,DC,MI,MI,"Arun Jaitley Stadium, Delhi",MI won by 12 runs
+29,2025-04-14,KKR,PBKS,PBKS,"Eden Gardens, Kolkata",PBKS won by 16 runs
+30,2025-04-15,LSG,CSK,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",CSK won by 5 wickets
